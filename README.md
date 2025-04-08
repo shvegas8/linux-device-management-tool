@@ -21,6 +21,14 @@ Python 3.x
 Clone the repository.
 Run python3 device_management.py.
 
+## Logging
+All performed actions are recorded in the device_management.log file.
+
+## Warnings
+FORMATTING DELETES ALL DATA ON THE DEVICE.
+
+Most operations require superuser privileges (`sudo`).
+
 RU
 # linux-device-management-tool
 
@@ -45,3 +53,12 @@ RU
 ## Установка и запуск
 Склонируйте репозиторий
 Запустите программу: Run python3 device_management.py.
+
+## Логирование
+
+Все выполненные действия записываются в файл `device_management.log`.
+
+## Предупреждения
+
+1. ФОРМАТИРОВАНИЕ УДАЛЯЕТ ВСЕ ДАННЫЕ НА УСТРОЙСТВЕ.
+2. Большинство операций требуют прав суперпользователя (`sudo`).
