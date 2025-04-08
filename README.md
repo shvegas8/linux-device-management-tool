@@ -14,7 +14,7 @@ Log all operations
 ## Requirements:
 Linux OS
 Python 3.x
-sudo privileges
+(`sudo`) privileges
 
 ## Usage:
 
